@@ -1,0 +1,105 @@
+{
+    "invoice_details": [
+        {
+            "Invoice_Data": [
+                {
+                    "Seller_Name": "Kraxi GmbH",
+                    "Seller_Address": "Flugzeugallee 17\n12345 Papierfeld - Deutschland"
+                },
+                {
+                    "Buyer_Name": "Helga Musterfrau",
+                    "Buyer_Address": "Rabattstr. 25\n34567 Osterhausen\nDeutschland"
+                },
+                {
+                    "Invoice_Number": "2019-03"
+                }
+            ]
+        },
+        {
+            "Invoice_Data": [
+                {
+                    "Seller_Name": "Kraxi GmbH"
+                }
+            ]
+        },
+        {
+            "Invoice_Data": [
+                {
+                    "Invoice_Date": "8. Mai 2019",
+                    "Customer_Number": "987-654",
+                    "Order_Number": "ABC-123"
+                }
+            ]
+        },
+        {
+            "Invoice_Details": [
+                {
+                    "Seller_Name": "Flug-",
+                    "Invoice_Number": "19721"
+                }
+            ]
+        },
+        {
+            "Seller_Details": [
+                {
+                    "Seller_Name": "kraxi.com",
+                    "Seller_Address": "Flugzeugallee 17\n12345 Papierfeld\nDeutschland",
+                    "Seller_Contact": "(0123) 4567",
+                    "Seller_Fax": "(0123) 4568",
+                    "Seller_Email": "info@kraxi.com",
+                    "Seller_Website": "wwwi.kraxi.com"
+                }
+            ]
+        }
+    ],
+    "product_details": [
+        {
+            "description/product_name": "Kostenlose Zugabe",
+            "quantity": 1,
+            "unit_price": 0.0,
+            "amount_for_quantity": 0.0
+        },
+        {
+            "description/product_name": "Adler",
+            "quantity": 1,
+            "unit_price": 75.0,
+            "amount_for_quantity": 75.0
+        },
+        {
+            "description/product_name": "Storch",
+            "quantity": 10,
+            "unit_price": 20.0,
+            "amount_for_quantity": 200.0
+        },
+        {
+            "description/product_name": "Eisvogel",
+            "quantity": 3,
+            "unit_price": 50.0,
+            "amount_for_quantity": 150.0
+        },
+        {
+            "description/product_name": "Sturzflug-Geier",
+            "quantity": 1,
+            "unit_price": 180.0,
+            "amount_for_quantity": 180.0
+        },
+        {
+            "description/product_name": "Turbo Flyer",
+            "quantity": 5,
+            "unit_price": 40.0,
+            "amount_for_quantity": 200.0
+        },
+        {
+            "description/product_name": "Superdrachen",
+            "quantity": 2,
+            "unit_price": 20.0,
+            "amount_for_quantity": 40.0
+        },
+        {
+            "Total": "1.005,55"
+        },
+        {
+            "Taxes": "160,55"
+        }
+    ]
+}

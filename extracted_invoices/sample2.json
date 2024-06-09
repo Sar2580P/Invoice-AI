@@ -1,0 +1,92 @@
+{
+    "invoice_details": [
+        {
+            "Billing Information": [
+                {
+                    "Company": "Donec odio",
+                    "Address": "12232 Gina Way, 1 Main Par\nGreenville, So, 29605",
+                    "Phone Number": "(123) 123-1232",
+                    "Email": "sgoodered2@tiny.cc"
+                }
+            ]
+        },
+        {
+            "Invoice_Details": [
+                {
+                    "Seller_Name": "47 company",
+                    "Buyer_Name": "ab"
+                }
+            ]
+        },
+        {
+            "Seller_Details": [
+                {
+                    "Name": "Corrie Gapper"
+                }
+            ]
+        },
+        {
+            "Invoice_Data": [
+                {
+                    "Invoice_Number": null,
+                    "Invoice_Date": null,
+                    "Seller_Name": null,
+                    "Seller_Address": null,
+                    "Seller_Contact": null,
+                    "Buyer_Name": null,
+                    "Buyer_Address": null,
+                    "Buyer_Contact": null,
+                    "Product_Details": null,
+                    "Total_Amount": null,
+                    "Payment_Terms": null,
+                    "Due_Date": null
+                }
+            ]
+        },
+        {
+            "Shipping_Information": [
+                {
+                    "Name": "Jennica Castlake",
+                    "Address": "84746 Buhler St, 32073 Brow\nCincinnati, Oh, 45203"
+                }
+            ]
+        },
+        {
+            "Invoice_Details": [
+                {
+                    "Invoice_Date": "06/10/2021",
+                    "Invoice_Number": "LS353348"
+                }
+            ]
+        }
+    ],
+    "product_details": [
+        {
+            "description": "Nest Smart Filter",
+            "quantity": 1,
+            "unit_price": 150,
+            "amount_for_quantity": 150
+        },
+        {
+            "description": "Sink",
+            "quantity": 2,
+            "unit_price": 100,
+            "amount_for_quantity": 200
+        },
+        {
+            "description": "Service Fee",
+            "quantity": 1,
+            "unit_price": 25,
+            "amount_for_quantity": 25
+        },
+        {
+            "description": "Labor Fee",
+            "quantity": 1,
+            "unit_price": 30,
+            "amount_for_quantity": 30
+        },
+        {
+            "Total": "$1409"
+        }
+    ]
+}

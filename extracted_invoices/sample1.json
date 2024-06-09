@@ -1,0 +1,64 @@
+{
+    "invoice_details": [
+        {
+            "Invoice_Data": [
+                {
+                    "Recipient_Name": "Herr Schmidt",
+                    "Date": "02.02.2022"
+                }
+            ]
+        },
+        {
+            "Invoice_Data": [
+                {
+                    "Seller_VAT_ID": "DE123456789"
+                }
+            ]
+        },
+        {
+            "Invoice_Details": [
+                {
+                    "Invoice_Number": "2019-1004",
+                    "Invoice_Type": "Gutschrift"
+                }
+            ]
+        },
+        {
+            "Invoice_Details": [
+                {
+                    "Invoice_Number": "12345",
+                    "City": "Musterhausen"
+                }
+            ]
+        },
+        {
+            "Invoice_Details": [
+                {
+                    "Seller_Name": "Musterfirma AG",
+                    "Seller_Address": "Musterstra\u00dfe, 23",
+                    "Invoice_Date": "01.03.2019"
+                }
+            ]
+        }
+    ],
+    "product_details": [
+        {
+            "description/product_name": "Musterleistung",
+            "quantity": 7,
+            "unit_price": "5,00 \u20ac",
+            "amount_for_quantity": "35,00 \u20ac"
+        },
+        {
+            "description/product_name": "Musterleistung",
+            "quantity": 3,
+            "unit_price": "3,00 \u20ac",
+            "amount_for_quantity": "9,00 \u20ac"
+        },
+        {
+            "Total": "35,70 \u20ac"
+        },
+        {
+            "Taxes": "5,70 \u20ac"
+        }
+    ]
+}

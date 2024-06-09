@@ -1,0 +1,54 @@
+{
+    "invoice_details": [
+        {
+            "Invoice_Data": [
+                {
+                    "Seller_Name": "Max _ Mustermann",
+                    "Seller_Address": "Musterstr. 1 - 41321 Musterstadt",
+                    "Buyer_Name": "Britta Beispiel",
+                    "Buyer_Address": "Beispielstr. 27\n54657 Beispielstadt\nDeutschland",
+                    "Invoice_Number": "202210001",
+                    "Invoice_Date": null
+                }
+            ]
+        },
+        {
+            "Invoice_Data": [
+                {
+                    "Seller_Name": "Firmenlogo"
+                }
+            ]
+        },
+        {
+            "Invoice_Details": [
+                {
+                    "Seller_Website": "www.mustermann.de",
+                    "Seller_Email": "max@muster.de",
+                    "Invoice_Number": "123456",
+                    "Invoice_Date": "01.01.2023",
+                    "Invoice_ID": "202210001"
+                }
+            ]
+        }
+    ],
+    "product_details": [
+        {
+            "description": "Weiterberechnung Reinigungsmittel",
+            "quantity": "1",
+            "unit_price": "17,00",
+            "amount_for_quantity": "17,00 \u20ac"
+        },
+        {
+            "description": "Unkraut entfernt und Rase gem\u00e4ht",
+            "quantity": "4,5 Std.",
+            "unit_price": "20,00",
+            "amount_for_quantity": "90,00 \u20ac"
+        },
+        {
+            "Total": "127,33 \u20ac"
+        },
+        {
+            "Taxes": "20,33 \u20ac"
+        }
+    ]
+}
